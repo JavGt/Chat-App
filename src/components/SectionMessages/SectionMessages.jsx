@@ -36,12 +36,12 @@ const HeaderSectionMessages = ({ handleMenu }) => {
 					<h1 className='text-gray-300 text-3xl  font-semibold'>Chats</h1>
 
 					<img
-						src='/src/assets/icons/icons8-reaccionar-nativo-480.png'
+						src='./src/assets/icons/icons8-reaccionar-nativo-480.png'
 						alt=''
 						className='w-8 h-8'
 					/>
 					<img
-						src='/src/assets/icons/icons8-tailwindcss-480.png'
+						src='./src/assets/icons/icons8-tailwindcss-480.png'
 						alt=''
 						className='w-8 h-8'
 					/>
